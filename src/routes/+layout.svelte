@@ -3,9 +3,9 @@
 	import './styles.css';
 </script>
 
-<div class="app"  style="min-height: 100vh;">
+<div class="app">
 	<Header/>
-	<main class="p-4 mx-4">
+	<main style="min-height: 100vh; padding: 10px;">
 		<slot />
 	</main>
 

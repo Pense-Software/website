@@ -3,7 +3,7 @@
 	import './styles.css';
 </script>
 
-<div class="app"  style="min-height: 100%;">
+<div class="app"  style="min-height: 100vh;">
 	<Header/>
 	<main class="p-4 mx-4">
 		<slot />

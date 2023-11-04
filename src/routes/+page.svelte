@@ -37,8 +37,8 @@
 	section {
 		display: flex;
 		flex-direction: column;
-		justify-content: center;
-		align-items: center;
+		justify-content: flex-start;
+		align-items: flex-start;
 		flex: 0.6;
 	}
 

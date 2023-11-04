@@ -5,9 +5,9 @@
 
 <div class="app">
 	<Header/>
-	<main>
-		<slot />
-	</main>
+	<!-- <main> -->
+	<slot />
+	<!-- </main> -->
 
 	<!-- Footer -->
 	<footer class="bg-white">

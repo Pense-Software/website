@@ -6,26 +6,26 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Pense" />
 </svelte:head>
 
 <section>
 	<h1>
 		<span class="welcome">
-			<picture>
+			<!-- <picture>
 				<source srcset={welcome} type="image/webp" />
 				<img src={welcome_fallback} alt="Welcome" />
-			</picture>
+			</picture> -->
 		</span>
 
-		to your new<br />SvelteKit app
+		Welcome to Pense
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		Software Development Company
 	</h2>
 
-	<Counter />
+	<!-- <Counter /> -->
 </section>
 
 <style>

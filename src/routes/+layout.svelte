@@ -3,14 +3,14 @@
 	import './styles.css';
 </script>
 
-<div class="app">
+<div class="app"  style="min-height: 100%;">
 	<Header/>
-	<!-- <main> -->
-	<slot />
-	<!-- </main> -->
+	<main>
+		<slot />
+	</main>
 
 	<!-- Footer -->
-	<footer class="bg-white text-center">
+	<footer class="bg-white" style="text-align: center;">
 		<div class="container mx-auto px-6 py-4">
 		  <div class="flex justify-between items-center">
 			<p class="text-gray-700 text-sm">© 2023 Pense Lda.</p>

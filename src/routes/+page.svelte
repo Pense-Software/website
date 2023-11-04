@@ -18,7 +18,7 @@
 			</picture> -->
 		</span>
 
-		Welcome to Pense
+		Pense
 	</h1>
 
 	<h2>

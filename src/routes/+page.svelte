@@ -25,9 +25,9 @@
 		Software Development Company
 	</h2>
 
-	<h3>
+	<h2>
 		Developing the digital future with blockchain technology. We specialize in decentralized applications, smart contract development, and custom blockchain solutions.
-	</h3>
+	</h2>
 
 
 	<!-- <Counter /> -->

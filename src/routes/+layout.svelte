@@ -34,6 +34,8 @@
 		flex: 1;
 		display: flex;
 		flex-direction: column;
+		justify-content: start;
+		align-items: start;
 		padding: 1rem;
 		width: 100%;
 		max-width: 64rem;

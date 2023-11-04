@@ -10,7 +10,7 @@
 	<!-- </main> -->
 
 	<!-- Footer -->
-	<footer class="bg-white">
+	<footer class="bg-white text-center">
 		<div class="container mx-auto px-6 py-4">
 		  <div class="flex justify-between items-center">
 			<p class="text-gray-700 text-sm">© 2023 Pense Lda.</p>

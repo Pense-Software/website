@@ -5,7 +5,7 @@
 
 <div class="app"  style="min-height: 100%;">
 	<Header/>
-	<main>
+	<main class="p-4 mx-4">
 		<slot />
 	</main>
 

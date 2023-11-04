@@ -5,7 +5,7 @@
 
 <div class="app">
 	<Header/>
-	<main style="min-height: 100vh; padding: 10px;">
+	<main style="min-height: 100vh; padding: 50px;">
 		<slot />
 	</main>
 

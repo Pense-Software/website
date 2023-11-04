@@ -36,7 +36,7 @@
 <style>
 	section {
 		display: flex;
-		flex-direction: column;
+		flex-direction: row;
 		justify-content: flex-start;
 		align-items: flex-start;
 		flex: 0.6;

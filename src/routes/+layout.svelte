@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>Pense Lda.</p>
+		<p>© Pense Lda</p>
 	</footer>
 </div>
 

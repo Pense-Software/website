@@ -11,7 +11,7 @@
 	<meta name="description" content="Pense" />
 </svelte:head>
 
-<div class="flex justify-center text-center p-8 mt-16 md:width-2/3 min-h-screen">
+<div class="flex flex-column justify-center text-center p-8 mt-16 md:width-2/3 min-h-screen">
 	<Heading tag="h1" class="mb-4" customSize="text-4xl font-extrabold  md:text-5xl lg:text-6xl">Building the new Internet</Heading>
 	<P class="mb-6 text-lg text-center lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Pense builds digital products for well-known Web 3.0 brands <br>
 	We team up with top developers and designers to make your ideas come to life</P>

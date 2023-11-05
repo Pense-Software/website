@@ -11,7 +11,7 @@
       </div>
       <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
         <div>
-          <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Portugal</h2>
+          <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Office</h2>
           <FooterLinkGroup>
             <FooterLink liClass="mb-4" href="/">Lagos Park, Building 7</FooterLink>
             <FooterLink liClass="mb-4" href="/">2740-244 Oeiras, Lisboa</FooterLink>

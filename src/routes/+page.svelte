@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Pense</title>
 	<meta name="description" content="Pense" />
 </svelte:head>
 

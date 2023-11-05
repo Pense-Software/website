@@ -12,10 +12,11 @@
 	</NavBrand>
 	<NavHamburger />
 	<NavUl>
-	<NavLi href="/" active={true}>Home</NavLi>
-	<NavLi href="/">About</NavLi>
-	<NavLi href="/">Navbar</NavLi>
-	<NavLi href="/">Pricing</NavLi>
-	<NavLi href="/">Contact</NavLi>
+		<NavLi href="/" active={true}>Expertise</NavLi>
+		<NavLi href="/">Work</NavLi>
+		<NavLi href="/">About</NavLi>
+		<NavLi href="/">Careers</NavLi>
+		<NavLi href="/">Blog</NavLi>
+		<NavLi href="/">Contact</NavLi>	
 	</NavUl>
 </Navbar>

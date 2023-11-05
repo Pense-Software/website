@@ -9,7 +9,14 @@
       <div class="mb-6 md:mb-0">
         <FooterBrand href="/" src={logo} alt="Pense Logo" name="Pense" />
       </div>
-      <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
+      <div class="grid grid-cols-3 gap-8 sm:gap-6 sm:grid-cols-4">
+        <div>
+            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Contact</h2>
+            <FooterLinkGroup>
+              <FooterLink liClass="mb-4" href="/">contact@pense.dev</FooterLink>
+            </FooterLinkGroup>
+          </div>
+          
         <div>
           <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Office</h2>
           <FooterLinkGroup>

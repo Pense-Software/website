@@ -1,27 +1,27 @@
 <script>
     import { Footer, FooterCopyright, FooterLinkGroup, FooterLink, FooterBrand, FooterIcon } from 'flowbite-svelte';
     import { FacebookSolid, GithubSolid, DiscordSolid, TwitterSolid } from 'flowbite-svelte-icons';
-    import Dribble from '../../utils/icons/Dribble.svelte';
+    import logo from "$lib/images/pense-logo-zoom.png"
   </script>
   
   <Footer footerType="socialmedia">
     <div class="md:flex md:justify-between">
       <div class="mb-6 md:mb-0">
-        <FooterBrand href="https://flowbite.com" src="/images/flowbite-svelte-icon-logo.svg" alt="Flowbite Logo" name="Flowbite" />
+        <FooterBrand href="https://flowbite.com" src={logo} alt="Pense Logo" name="Pense" />
       </div>
       <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
         <div>
-          <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
+          <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Lisboa</h2>
           <FooterLinkGroup>
-            <FooterLink liClass="mb-4" href="/">Flowbite</FooterLink>
-            <FooterLink liClass="mb-4" href="/">Tailwind CSS</FooterLink>
+            <FooterLink liClass="mb-4" href="/">Lagos Park, Building 7, 1 St Floor South</FooterLink>
+            <FooterLink liClass="mb-4" href="/">2740-244 Oeiras</FooterLink>
           </FooterLinkGroup>
         </div>
         <div>
           <h2 class="mb-6 text-sm font-semibold uppercase text-gray-900 dark:text-white">Follow us</h2>
           <FooterLinkGroup>
-            <FooterLink liClass="mb-4" href="/">GitHub</FooterLink>
-            <FooterLink liClass="mb-4" href="/">Discord</FooterLink>
+            <FooterLink liClass="mb-4" href="https://github.com/Pense-Software">GitHub</FooterLink>
+            <FooterLink liClass="mb-4" href="/">Twitter</FooterLink>
           </FooterLinkGroup>
         </div>
         <div>

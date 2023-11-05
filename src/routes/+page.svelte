@@ -12,9 +12,9 @@
 </svelte:head>
 
 <div class="text-center p-8 mt-16 md:width-2/3">
-	<Heading tag="h1" class="mb-4" customSize="text-4xl font-extrabold  md:text-5xl lg:text-6xl">We are forging the next frontier of the Internet's evolution</Heading>
-	<P class="mb-6 text-lg lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Pense creates and expands digital products for top brands in Web 3.0.</P>
-	<Button href="/" color="dark">
+	<Heading tag="h1" class="mb-4" customSize="text-4xl font-extrabold  md:text-5xl lg:text-6xl">Creating the new Internet</Heading>
+	<P class="mb-6 text-lg lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Pense creates digital products for top brands in Web 3.0</P>
+	<Button href="/" color="pink">
 	  Learn more
 	  <ArrowRightOutline class="w-3.5 h-3.5 ml-2" />
 	</Button>

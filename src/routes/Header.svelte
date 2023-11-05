@@ -9,8 +9,8 @@
 	<div class="relative px-8">
 		<Navbar class="px-2 sm:px-4 py-2.5 fixed w-full z-20 top-0 left-0 border-b">
 		  <NavBrand href="/">
-			<img src="/images/flowbite-svelte-icon-logo.svg" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
-			<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Flowbite</span>
+			<img src="/images/pense-logo-zoom.png" class="mr-3 h-6 sm:h-9" alt="Pense Logo" />
+			<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Pense</span>
 		  </NavBrand>
 		  <NavHamburger />
 		  <NavUl>

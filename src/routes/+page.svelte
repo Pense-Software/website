@@ -10,7 +10,7 @@
 	<meta name="description" content="Pense" />
 </svelte:head>
 
-<div style="height:300px;" class="overflow-scroll pb-16">
+<div class="pt-8">
 	<Skeleton class="mt-16 mb-8" />
 	<ImagePlaceholder class="my-8" />
 	<TextPlaceholder class="my-8" />

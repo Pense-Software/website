@@ -1,11 +1,21 @@
 <script>
 	import { page } from '$app/stores';
-	import logo from '$lib/images/svelte-logo.svg';
+	import logo from '$lib/images/pense-logo-zoom.png';
 	import github from '$lib/images/github.svg';
 </script>
 
 <header>
-	
+	<div class="corner">
+		<a href="/">
+			<img src={logo} alt="" />
+		</a>
+	</div>
+	<nav>
+		<ul>
+			<li>Home</li>
+			<li>About</li>
+		</ul>
+	</nav>
 	<div class="corner">
 		<a href="https://github.com/Pense-Software">
 			<img src={github} alt="GitHub" />

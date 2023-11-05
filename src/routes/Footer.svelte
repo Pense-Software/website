@@ -7,7 +7,7 @@
   <Footer footerType="socialmedia">
     <div class="md:flex md:justify-between">
       <div class="mb-6 md:mb-0">
-        <FooterBrand href="https://flowbite.com" src={logo} alt="Pense Logo" name="Pense" />
+        <FooterBrand href="/" src={logo} alt="Pense Logo" name="Pense" />
       </div>
       <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
         <div>
@@ -35,7 +35,7 @@
     </div>
     <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
     <div class="sm:flex sm:items-center sm:justify-between">
-      <FooterCopyright href="/" by="Pense Lda" />
+      <FooterCopyright href="/" by="Pense Lda." />
       <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
         <FooterIcon href="https://github.com/Pense-Software">
             <GithubSolid class="w-4 h-4 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white" />

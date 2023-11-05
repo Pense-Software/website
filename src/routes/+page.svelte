@@ -21,7 +21,7 @@
 	</Button>
 	<div class="mt-8 p-8 flex flex-col gap-16 align-center">
 		<Heading>Clients</Heading>
-		<div class="flex flex-col">
+		<div class="flex flex-row w-full">
 			<Card img="https://variety.com/wp-content/uploads/2023/01/Twitter-Third-Party-Apps.png" href="https://icx.one" horizontal class="mb-4" size="lg">
 				<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-left">ICX Social Network</h5>
 				<p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight text-left">We are working together with ICX DAO to develop a social network similar to Twitter with many extra cool features.</p>

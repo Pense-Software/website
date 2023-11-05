@@ -11,10 +11,10 @@
       </div>
       <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
         <div>
-          <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Lisboa</h2>
+          <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Portugal</h2>
           <FooterLinkGroup>
-            <FooterLink liClass="mb-4" href="/">Lagos Park, Building 7, 1 St Floor South</FooterLink>
-            <FooterLink liClass="mb-4" href="/">2740-244 Oeiras</FooterLink>
+            <FooterLink liClass="mb-4" href="/">Lagos Park, Building 7</FooterLink>
+            <FooterLink liClass="mb-4" href="/">2740-244 Oeiras, Lisboa</FooterLink>
           </FooterLinkGroup>
         </div>
         <div>
@@ -35,7 +35,7 @@
     </div>
     <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
     <div class="sm:flex sm:items-center sm:justify-between">
-      <FooterCopyright href="/" by="Flowbite™" />
+      <FooterCopyright href="/" by="Pense Lda" />
       <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
         <FooterIcon href="https://github.com/Pense-Software">
             <GithubSolid class="w-4 h-4 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white" />

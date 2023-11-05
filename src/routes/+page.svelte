@@ -8,20 +8,3 @@
 	<title>Pense</title>
 	<meta name="description" content="Pense" />
 </svelte:head>
-
-<section>
-	<h1>
-		Pense
-	</h1>
-
-	<h2>
-		Software Development Company
-	</h2>
-
-	<h2>
-		Developing the digital future with blockchain technology. We specialize in decentralized applications, smart contract development, and custom blockchain solutions.
-	</h2>
-
-
-	<!-- <Counter /> -->
-</section>

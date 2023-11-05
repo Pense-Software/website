@@ -4,6 +4,6 @@
  </script>
 
 <div class="app">
-  	<Header />
+  <Header />
 	<slot />  
 </div>

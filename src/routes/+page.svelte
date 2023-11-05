@@ -19,7 +19,7 @@
 	  Learn more
 	  <ArrowRightOutline class="w-3.5 h-3.5 ml-2" />
 	</Button>
-	<div class="mt-8 p-8 flex flex-col gap-16 align-center align-center justify-center items-center">
+	<div class="mt-8 p-8 flex flex-col md:flex-row gap-16 align-center align-center justify-center items-center">
 		<Heading>Clients</Heading>
 		<div class="flex md:flex-row w-full gap-4 p-2 justify-center">
 			<Card img="https://variety.com/wp-content/uploads/2023/01/Twitter-Third-Party-Apps.png" href="https://icx.one" horizontal class="mb-4" size="lg">

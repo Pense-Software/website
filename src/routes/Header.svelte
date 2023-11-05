@@ -5,31 +5,24 @@
 	import github from '$lib/images/github.svg';
 </script>
 
-<header>
-	<div class="relative px-8">
-		<Navbar class="px-2 sm:px-4 py-2.5 fixed w-full z-20 top-0 left-0 border-b">
-		  <NavBrand href="/">
-			<img src={logo} class="mr-3 h-6 sm:h-9" alt="Pense Logo" />
-			<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Pense</span>
-		  </NavBrand>
-		  <NavHamburger />
-		  <NavUl>
-			<NavLi href="/" active={true}>Home</NavLi>
-			<!-- <NavLi href="/about">About</NavLi>
-			<NavLi href="/docs/components/navbar">Navbar</NavLi>
-			<NavLi href="/pricing">Pricing</NavLi>
-			<NavLi href="/contact">Contact</NavLi> -->
-		  </NavUl>
-		</Navbar>
-		<div style="height:300px;" class="overflow-scroll pb-16">
-		  <Skeleton class="mt-16 mb-8" />
-		  <ImagePlaceholder class="my-8" />
-		  <TextPlaceholder class="my-8" />
-		</div>
-	  </div>
-	<div class="corner">
-		<a href="https://github.com/Pense-Software">
-			<img src={github} alt="GitHub" />
-		</a>
-	</div>
-</header>
+<div class="relative px-8">
+<Navbar class="px-2 sm:px-4 py-2.5 fixed w-full z-20 top-0 left-0 border-b">
+	<NavBrand href="/">
+	<img src={logo} class="mr-3 h-6 sm:h-9" alt="Pense Logo" />
+	<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Pense</span>
+	</NavBrand>
+	<NavHamburger />
+	<NavUl>
+	<NavLi href="/" active={true}>Home</NavLi>
+	<!-- <NavLi href="/about">About</NavLi>
+	<NavLi href="/docs/components/navbar">Navbar</NavLi>
+	<NavLi href="/pricing">Pricing</NavLi>
+	<NavLi href="/contact">Contact</NavLi> -->
+	</NavUl>
+</Navbar>
+<div style="height:300px;" class="overflow-scroll pb-16">
+	<Skeleton class="mt-16 mb-8" />
+	<ImagePlaceholder class="my-8" />
+	<TextPlaceholder class="my-8" />
+</div>
+</div>

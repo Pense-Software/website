@@ -10,7 +10,7 @@
 			<img src={logo} alt="" />
 		</a>
 	</div>
-	<nav>
+	<nav class="grow">
 		<ul>
 			<li>Home</li>
 			<li>About</li>

@@ -37,21 +37,12 @@
     <div class="sm:flex sm:items-center sm:justify-between">
       <FooterCopyright href="/" by="Flowbite™" />
       <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
-        <FooterIcon href="/">
-          <FacebookSolid class="w-4 h-4 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white" />
-        </FooterIcon>
-        <FooterIcon href="/">
-          <DiscordSolid class="w-4 h-4 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white" />
-        </FooterIcon>
+        <FooterIcon href="https://github.com/Pense-Software">
+            <GithubSolid class="w-4 h-4 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white" />
+          </FooterIcon>  
         <FooterIcon href="/">
           <TwitterSolid class="w-4 h-4 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white" />
         </FooterIcon>
-        <FooterIcon href="/">
-          <GithubSolid class="w-4 h-4 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white" />
-        </FooterIcon>
-        <FooterIcon href="/">
-          <Dribble />
-        </FooterIcon>
-      </div>
+        </div>
     </div>
   </Footer>

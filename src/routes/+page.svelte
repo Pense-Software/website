@@ -21,9 +21,15 @@
 	</Button>
 	<div class="mt-8 p-8 flex flex-col gap-16 align-center">
 		<Heading>Clients</Heading>
-		<Card img="https://variety.com/wp-content/uploads/2023/01/Twitter-Third-Party-Apps.png" href="https://icx.one" horizontal class="mb-4" size="lg">
-			<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-left">ICX Social Network</h5>
-			<p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight text-left">We are working together with ICX DAO to develop a social network similar to Twitter with many extra cool features.</p>
-		</Card>
+		<div>
+			<Card img="https://variety.com/wp-content/uploads/2023/01/Twitter-Third-Party-Apps.png" href="https://icx.one" horizontal class="mb-4" size="lg">
+				<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-left">ICX Social Network</h5>
+				<p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight text-left">We are working together with ICX DAO to develop a social network similar to Twitter with many extra cool features.</p>
+			</Card>
+			<Card img="https://messari.imgix.net/https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2bt0j8lu%2Fproduction%2Fe63cb09170b4e609649b41eb21e6f33bbbf4f6b2-2040x1070.png" href="https://dfinity.org/" horizontal class="mb-4" size="lg">
+				<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-left">DFINITY Collaborations</h5>
+				<p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight text-left">We collaborate with DFINITY foundation to develop open source software for the Internet Computer.</p>
+			</Card>
+		</div>
 	</div>
 </div>

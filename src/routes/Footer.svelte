@@ -14,7 +14,7 @@
           <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Office</h2>
           <FooterLinkGroup>
             <FooterLink liClass="mb-4" href="/">Lagoas Park, Building 7</FooterLink>
-            <FooterLink liClass="mb-4" href="/">2740-244 Oeiras, Lisboa</FooterLink>
+            <FooterLink liClass="mb-4" href="/">2740-244 Lisboa</FooterLink>
           </FooterLinkGroup>
         </div>
         <div>

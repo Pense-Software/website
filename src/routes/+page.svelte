@@ -13,7 +13,8 @@
 
 <div class="text-center p-8 mt-16 md:width-2/3 min-h-screen">
 	<Heading tag="h1" class="mb-4" customSize="text-4xl font-extrabold  md:text-5xl lg:text-6xl">Building the new Internet</Heading>
-	<P class="mb-6 text-lg lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Pense builds digital products for well-known Web 3.0 brands. We team up with top developers and designers to make your ideas come to life.</P>
+	<P class="mb-6 text-lg lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Pense builds digital products for well-known Web 3.0 brands</P>
+	<P class="mb-6 text-lg lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">We team up with top developers and designers to make your ideas come to life</P>
 	<Button href="/">
 	  Learn more
 	  <ArrowRightOutline class="w-3.5 h-3.5 ml-2" />

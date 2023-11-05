@@ -14,10 +14,10 @@
 	<NavHamburger />
 	<NavUl>
 	<NavLi href="/" active={true}>Home</NavLi>
-	<!-- <NavLi href="/about">About</NavLi>
-	<NavLi href="/docs/components/navbar">Navbar</NavLi>
-	<NavLi href="/pricing">Pricing</NavLi>
-	<NavLi href="/contact">Contact</NavLi> -->
+	<NavLi href="/">About</NavLi>
+	<NavLi href="/">Navbar</NavLi>
+	<NavLi href="/">Pricing</NavLi>
+	<NavLi href="/">Contact</NavLi>
 	</NavUl>
 </Navbar>
 <div style="height:300px;" class="overflow-scroll pb-16">

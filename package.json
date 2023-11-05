@@ -23,5 +23,8 @@
   "type": "module",
   "engines": {
     "node": "20.x"
+  },
+  "dependencies": {
+    "flowbite-svelte-icons": "^0.4.5"
   }
 }

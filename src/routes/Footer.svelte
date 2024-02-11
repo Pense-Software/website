@@ -20,7 +20,7 @@
         <div>
           <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Office</h2>
           <FooterLinkGroup>
-            <FooterLink liClass="mb-4" href="/">1111B S Governors Ave #7955</FooterLink>
+            <FooterLink liClass="mb-4" href="/">1111B S Governors Ave</FooterLink>
             <FooterLink liClass="mb-4" href="/">Dover, DE 19904 US</FooterLink>
           </FooterLinkGroup>
         </div>
